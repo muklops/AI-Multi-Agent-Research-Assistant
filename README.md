@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 An AI-powered Multi-Agent Research System built using:
 
 LangChain
@@ -23,3 +24,7 @@ Features:
  Download Generated Reports
  Modular Architecture
  Easily Deployable to Streamlit Cloud
+=======
+# AI-Multi-Agent-Research-Assistant
+An AI-powered Multi-Agent Research System
+>>>>>>> fd63da1519fa1b3ca8e82ed09efe044a9f11b148
